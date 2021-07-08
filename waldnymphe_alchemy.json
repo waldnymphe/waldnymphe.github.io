@@ -1,0 +1,3288 @@
+{
+    "server": "Transcendence",
+    "player": "Waldnymphe",
+    "guild": "Der Rapskäferzug",
+    "profession": {
+        "locale": "deDE",
+        "name": "Alchimie",
+        "specializationId": 28677,
+        "specializationName": "Meister der Elixiere",
+        "level": 375,
+        "maxLevel": 375,
+        "recipes": [{
+                "name": "Elixier der erheblichen Schattenmacht",
+                "color": "ffffff",
+                "id": 22835,
+                "texture": 134771,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Urflechte",
+                        "color": "ffffff",
+                        "texture": "134201",
+                        "num": 1,
+                        "id": 22790
+                    },
+                    {
+                        "name": "Alptraumranke",
+                        "color": "ffffff",
+                        "texture": "134218",
+                        "num": 1,
+                        "id": 22792
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 28558
+            },
+            {
+                "name": "Elixier der erheblichen Verteidigung",
+                "color": "ffffff",
+                "id": 22834,
+                "texture": 134746,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Urflechte",
+                        "color": "ffffff",
+                        "texture": "134201",
+                        "num": 3,
+                        "id": 22790
+                    },
+                    {
+                        "name": "Terozapfen",
+                        "color": "ffffff",
+                        "texture": "134223",
+                        "num": 1,
+                        "id": 22789
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 28557
+            },
+            {
+                "name": "Elixier der erheblichen Beweglichkeit",
+                "color": "ffffff",
+                "id": 22831,
+                "texture": 134751,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Terozapfen",
+                        "color": "ffffff",
+                        "texture": "134223",
+                        "num": 1,
+                        "id": 22789
+                    },
+                    {
+                        "name": "Teufelsgras",
+                        "color": "ffffff",
+                        "texture": "134208",
+                        "num": 2,
+                        "id": 22785
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 28553
+            },
+            {
+                "name": "Elixier der draenischen Weisheit",
+                "color": "ffffff",
+                "id": 32067,
+                "texture": 134782,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Teufelsgras",
+                        "color": "ffffff",
+                        "texture": "134208",
+                        "num": 1,
+                        "id": 22785
+                    },
+                    {
+                        "name": "Terozapfen",
+                        "color": "ffffff",
+                        "texture": "134223",
+                        "num": 1,
+                        "id": 22789
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 39638
+            },
+            {
+                "name": "Elixier der erheblichen Frostmacht",
+                "color": "ffffff",
+                "id": 22827,
+                "texture": 134774,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Wasserpartikel",
+                        "color": "ffffff",
+                        "texture": "132844",
+                        "num": 2,
+                        "id": 22578
+                    },
+                    {
+                        "name": "Urflechte",
+                        "color": "ffffff",
+                        "texture": "134201",
+                        "num": 1,
+                        "id": 22790
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 28549
+            },
+            {
+                "name": "Elixier des Meisters",
+                "color": "ffffff",
+                "id": 28104,
+                "texture": 134734,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Terozapfen",
+                        "color": "ffffff",
+                        "texture": "134223",
+                        "num": 3,
+                        "id": 22789
+                    },
+                    {
+                        "name": "Teufelsgras",
+                        "color": "ffffff",
+                        "texture": "134208",
+                        "num": 1,
+                        "id": 22785
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 33741
+            },
+            {
+                "name": "Erdelixier",
+                "color": "ffffff",
+                "id": 32063,
+                "texture": 134781,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Traumwinde",
+                        "color": "ffffff",
+                        "texture": "134205",
+                        "num": 1,
+                        "id": 22786
+                    },
+                    {
+                        "name": "Zottelkappe",
+                        "color": "ffffff",
+                        "texture": "134220",
+                        "num": 2,
+                        "id": 22787
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 39637
+            },
+            {
+                "name": "Elixier der erheblichen Seelenstärke",
+                "color": "ffffff",
+                "id": 32062,
+                "texture": 134785,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Zottelkappe",
+                        "color": "ffffff",
+                        "texture": "134220",
+                        "num": 2,
+                        "id": 22787
+                    },
+                    {
+                        "name": "Teufelsgras",
+                        "color": "ffffff",
+                        "texture": "134208",
+                        "num": 1,
+                        "id": 22785
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 39636
+            },
+            {
+                "name": "Elixier der erheblichen Stärke",
+                "color": "ffffff",
+                "id": 22824,
+                "texture": 134773,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Bergsilbersalbei",
+                        "color": "ffffff",
+                        "texture": "134215",
+                        "num": 1,
+                        "id": 13465
+                    },
+                    {
+                        "name": "Teufelsgras",
+                        "color": "ffffff",
+                        "texture": "134208",
+                        "num": 1,
+                        "id": 22785
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 28544
+            },
+            {
+                "name": "Elixier der Heilkraft",
+                "color": "ffffff",
+                "id": 22825,
+                "texture": 134768,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Goldener Sansam",
+                        "color": "ffffff",
+                        "texture": "134221",
+                        "num": 1,
+                        "id": 13464
+                    },
+                    {
+                        "name": "Traumwinde",
+                        "color": "ffffff",
+                        "texture": "134205",
+                        "num": 1,
+                        "id": 22786
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 28545
+            },
+            {
+                "name": "Elixier der Tarnung",
+                "color": "ffffff",
+                "id": 22823,
+                "texture": 134777,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Zottelkappe",
+                        "color": "ffffff",
+                        "texture": "134220",
+                        "num": 1,
+                        "id": 22787
+                    },
+                    {
+                        "name": "Teufelsgras",
+                        "color": "ffffff",
+                        "texture": "134208",
+                        "num": 1,
+                        "id": 22785
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 28543
+            },
+            {
+                "name": "Elixier des Adepten",
+                "color": "ffffff",
+                "id": 28103,
+                "texture": 134876,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Traumblatt",
+                        "color": "ffffff",
+                        "texture": "134204",
+                        "num": 1,
+                        "id": 13463
+                    },
+                    {
+                        "name": "Teufelsgras",
+                        "color": "ffffff",
+                        "texture": "134208",
+                        "num": 1,
+                        "id": 22785
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 33740
+            },
+            {
+                "name": "Elixier des Ansturms",
+                "color": "ffffff",
+                "id": 28102,
+                "texture": 134838,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Bergsilbersalbei",
+                        "color": "ffffff",
+                        "texture": "134215",
+                        "num": 1,
+                        "id": 13465
+                    },
+                    {
+                        "name": "Teufelsgras",
+                        "color": "ffffff",
+                        "texture": "134208",
+                        "num": 1,
+                        "id": 22785
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 33738
+            },
+            {
+                "name": "Großes Arkanelixier",
+                "color": "ffffff",
+                "id": 13454,
+                "texture": 134805,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Traumblatt",
+                        "color": "ffffff",
+                        "texture": "134204",
+                        "num": 3,
+                        "id": 13463
+                    },
+                    {
+                        "name": "Bergsilbersalbei",
+                        "color": "ffffff",
+                        "texture": "134215",
+                        "num": 1,
+                        "id": 13465
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 17573
+            },
+            {
+                "name": "Elixier des Mungos",
+                "color": "ffffff",
+                "id": 13452,
+                "texture": 134812,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Bergsilbersalbei",
+                        "color": "ffffff",
+                        "texture": "134215",
+                        "num": 2,
+                        "id": 13465
+                    },
+                    {
+                        "name": "Pestblüte",
+                        "color": "ffffff",
+                        "texture": "134219",
+                        "num": 2,
+                        "id": 13466
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 17571
+            },
+            {
+                "name": "Elixier der rohen Gewalt",
+                "color": "ffffff",
+                "id": 13453,
+                "texture": 134839,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Gromsblut",
+                        "color": "ffffff",
+                        "texture": "134197",
+                        "num": 2,
+                        "id": 8846
+                    },
+                    {
+                        "name": "Pestblüte",
+                        "color": "ffffff",
+                        "texture": "134219",
+                        "num": 2,
+                        "id": 13466
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 17557
+            },
+            {
+                "name": "Trank der Genesung",
+                "color": "ffffff",
+                "id": 3386,
+                "texture": 134743,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Großer Giftbeutel",
+                        "color": "ffffff",
+                        "texture": "134338",
+                        "num": 1,
+                        "id": 1288
+                    },
+                    {
+                        "name": "Beulengras",
+                        "color": "ffffff",
+                        "texture": "134181",
+                        "num": 1,
+                        "id": 2453
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 3174
+            },
+            {
+                "name": "Elixier der Weisen",
+                "color": "ffffff",
+                "id": 13447,
+                "texture": 134809,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Traumblatt",
+                        "color": "ffffff",
+                        "texture": "134204",
+                        "num": 1,
+                        "id": 13463
+                    },
+                    {
+                        "name": "Pestblüte",
+                        "color": "ffffff",
+                        "texture": "134219",
+                        "num": 2,
+                        "id": 13466
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 17555
+            },
+            {
+                "name": "Elixier der überragenden Verteidigung",
+                "color": "ffffff",
+                "id": 13445,
+                "texture": 134846,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Steinschuppenöl",
+                        "color": "ffffff",
+                        "texture": "134848",
+                        "num": 2,
+                        "id": 13423
+                    },
+                    {
+                        "name": "Sonnengras",
+                        "color": "ffffff",
+                        "texture": "134199",
+                        "num": 1,
+                        "id": 8838
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 17554
+            },
+            {
+                "name": "Elixier der Dämonenentdeckung",
+                "color": "ffffff",
+                "id": 9233,
+                "texture": 134833,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Gromsblut",
+                        "color": "ffffff",
+                        "texture": "134197",
+                        "num": 2,
+                        "id": 8846
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 11478
+            },
+            {
+                "name": "Elixier der Schattenmacht",
+                "color": "ffffff",
+                "id": 9264,
+                "texture": 134826,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Geisterpilz",
+                        "color": "ffffff",
+                        "texture": "134529",
+                        "num": 3,
+                        "id": 8845
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 11476
+            },
+            {
+                "name": "Elixier des Dämonentötens",
+                "color": "ffffff",
+                "id": 9224,
+                "texture": 134807,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Gromsblut",
+                        "color": "ffffff",
+                        "texture": "134197",
+                        "num": 1,
+                        "id": 8846
+                    },
+                    {
+                        "name": "Geisterpilz",
+                        "color": "ffffff",
+                        "texture": "134529",
+                        "num": 1,
+                        "id": 8845
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 11477
+            },
+            {
+                "name": "Arthas' Gabe",
+                "color": "ffffff",
+                "id": 9088,
+                "texture": 134808,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Arthas' Tränen",
+                        "color": "ffffff",
+                        "texture": "134194",
+                        "num": 1,
+                        "id": 8836
+                    },
+                    {
+                        "name": "Blindkraut",
+                        "color": "ffffff",
+                        "texture": "134195",
+                        "num": 1,
+                        "id": 8839
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 11466
+            },
+            {
+                "name": "Elixier der großen Beweglichkeit",
+                "color": "ffffff",
+                "id": 9187,
+                "texture": 134874,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Sonnengras",
+                        "color": "ffffff",
+                        "texture": "134199",
+                        "num": 1,
+                        "id": 8838
+                    },
+                    {
+                        "name": "Golddorn",
+                        "color": "ffffff",
+                        "texture": "134196",
+                        "num": 1,
+                        "id": 3821
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 11467
+            },
+            {
+                "name": "Elixier der Riesen",
+                "color": "ffffff",
+                "id": 9206,
+                "texture": 134841,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Sonnengras",
+                        "color": "ffffff",
+                        "texture": "134199",
+                        "num": 1,
+                        "id": 8838
+                    },
+                    {
+                        "name": "Gromsblut",
+                        "color": "ffffff",
+                        "texture": "134197",
+                        "num": 1,
+                        "id": 8846
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 11472
+            },
+            {
+                "name": "Arkanes Elixier",
+                "color": "ffffff",
+                "id": 9155,
+                "texture": 134810,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Blindkraut",
+                        "color": "ffffff",
+                        "texture": "134195",
+                        "num": 1,
+                        "id": 8839
+                    },
+                    {
+                        "name": "Golddorn",
+                        "color": "ffffff",
+                        "texture": "134196",
+                        "num": 1,
+                        "id": 3821
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 11461
+            },
+            {
+                "name": "Elixier der großen Intelligenz",
+                "color": "ffffff",
+                "id": 9179,
+                "texture": 134721,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Blindkraut",
+                        "color": "ffffff",
+                        "texture": "134195",
+                        "num": 1,
+                        "id": 8839
+                    },
+                    {
+                        "name": "Khadgars Schnurrbart",
+                        "color": "ffffff",
+                        "texture": "134188",
+                        "num": 1,
+                        "id": 3358
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 11465
+            },
+            {
+                "name": "Elixier der Untotenentdeckung",
+                "color": "ffffff",
+                "id": 9154,
+                "texture": 134833,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Arthas' Tränen",
+                        "color": "ffffff",
+                        "texture": "134194",
+                        "num": 1,
+                        "id": 8836
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 11460
+            },
+            {
+                "name": "Elixier der verbesserten Wasseratmung",
+                "color": "ffffff",
+                "id": 18294,
+                "texture": 134716,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Sekret des Untodes",
+                        "color": "ffffff",
+                        "texture": "134437",
+                        "num": 1,
+                        "id": 7972
+                    },
+                    {
+                        "name": "Lila Lotus",
+                        "color": "ffffff",
+                        "texture": "134198",
+                        "num": 2,
+                        "id": 8831
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 22808
+            },
+            {
+                "name": "Katzenaugenelixier",
+                "color": "ffffff",
+                "id": 10592,
+                "texture": 134816,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Golddorn",
+                        "color": "ffffff",
+                        "texture": "134196",
+                        "num": 1,
+                        "id": 3821
+                    },
+                    {
+                        "name": "Blassblatt",
+                        "color": "ffffff",
+                        "texture": "134193",
+                        "num": 1,
+                        "id": 3818
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 12609
+            },
+            {
+                "name": "Elixier der großen Verteidigung",
+                "color": "ffffff",
+                "id": 8951,
+                "texture": 134845,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Wildstahlblume",
+                        "color": "ffffff",
+                        "texture": "133938",
+                        "num": 1,
+                        "id": 3355
+                    },
+                    {
+                        "name": "Golddorn",
+                        "color": "ffffff",
+                        "texture": "134196",
+                        "num": 1,
+                        "id": 3821
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 11450
+            },
+            {
+                "name": "Elixier der Beweglichkeit",
+                "color": "ffffff",
+                "id": 8949,
+                "texture": 134873,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Würgetang",
+                        "color": "ffffff",
+                        "texture": "134191",
+                        "num": 1,
+                        "id": 3820
+                    },
+                    {
+                        "name": "Golddorn",
+                        "color": "ffffff",
+                        "texture": "134196",
+                        "num": 1,
+                        "id": 3821
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 11449
+            },
+            {
+                "name": "Elixier der Seelenstärke",
+                "color": "ffffff",
+                "id": 3825,
+                "texture": 134823,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Wildstahlblume",
+                        "color": "ffffff",
+                        "texture": "133938",
+                        "num": 1,
+                        "id": 3355
+                    },
+                    {
+                        "name": "Golddorn",
+                        "color": "ffffff",
+                        "texture": "134196",
+                        "num": 1,
+                        "id": 3821
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 3450
+            },
+            {
+                "name": "Elixier der Ogerstärke",
+                "color": "ffffff",
+                "id": 3391,
+                "texture": 134837,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Erdwurzel",
+                        "color": "ffffff",
+                        "texture": "134187",
+                        "num": 1,
+                        "id": 2449
+                    },
+                    {
+                        "name": "Königsblut",
+                        "color": "ffffff",
+                        "texture": "134183",
+                        "num": 1,
+                        "id": 3356
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 3188
+            },
+            {
+                "name": "Elixier der Feuermacht",
+                "color": "ffffff",
+                "id": 6373,
+                "texture": 134813,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Feueröl",
+                        "color": "ffffff",
+                        "texture": "134818",
+                        "num": 2,
+                        "id": 6371
+                    },
+                    {
+                        "name": "Königsblut",
+                        "color": "ffffff",
+                        "texture": "134183",
+                        "num": 1,
+                        "id": 3356
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 7845
+            },
+            {
+                "name": "Elixier der geringen Beweglichkeit",
+                "color": "ffffff",
+                "id": 3390,
+                "texture": 134872,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Wildstahlblume",
+                        "color": "ffffff",
+                        "texture": "133938",
+                        "num": 1,
+                        "id": 3355
+                    },
+                    {
+                        "name": "Flitzdistel",
+                        "color": "ffffff",
+                        "texture": "134184",
+                        "num": 1,
+                        "id": 2452
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 2333
+            },
+            {
+                "name": "Elixier der Verteidigung",
+                "color": "ffffff",
+                "id": 3389,
+                "texture": 134844,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Wildstahlblume",
+                        "color": "ffffff",
+                        "texture": "133938",
+                        "num": 1,
+                        "id": 3355
+                    },
+                    {
+                        "name": "Würgetang",
+                        "color": "ffffff",
+                        "texture": "134191",
+                        "num": 1,
+                        "id": 3820
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 3177
+            },
+            {
+                "name": "Elixier der Weisheit",
+                "color": "ffffff",
+                "id": 3383,
+                "texture": 134717,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Maguskönigskraut",
+                        "color": "ffffff",
+                        "texture": "133436",
+                        "num": 1,
+                        "id": 785
+                    },
+                    {
+                        "name": "Wilddornrose",
+                        "color": "ffffff",
+                        "texture": "134412",
+                        "num": 2,
+                        "id": 2450
+                    },
+                    {
+                        "name": "Leere Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3371
+                    }
+                ],
+                "spellId": 3171
+            },
+            {
+                "name": "Elixier der Wasseratmung",
+                "color": "ffffff",
+                "id": 5996,
+                "texture": 134797,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Würgetang",
+                        "color": "ffffff",
+                        "texture": "134191",
+                        "num": 1,
+                        "id": 3820
+                    },
+                    {
+                        "name": "Schwarzmaulöl",
+                        "color": "ffffff",
+                        "texture": "132799",
+                        "num": 2,
+                        "id": 6370
+                    },
+                    {
+                        "name": "Leere Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3371
+                    }
+                ],
+                "spellId": 7179
+            },
+            {
+                "name": "Elixier des Riesenwuchses",
+                "color": "ffffff",
+                "id": 6662,
+                "texture": 134721,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Deviatfisch",
+                        "color": "ffffff",
+                        "texture": "134299",
+                        "num": 1,
+                        "id": 6522
+                    },
+                    {
+                        "name": "Erdwurzel",
+                        "color": "ffffff",
+                        "texture": "134187",
+                        "num": 1,
+                        "id": 2449
+                    },
+                    {
+                        "name": "Leere Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3371
+                    }
+                ],
+                "spellId": 8240
+            },
+            {
+                "name": "Elixier der schwachen Beweglichkeit",
+                "color": "ffffff",
+                "id": 2457,
+                "texture": 134871,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Flitzdistel",
+                        "color": "ffffff",
+                        "texture": "134184",
+                        "num": 1,
+                        "id": 2452
+                    },
+                    {
+                        "name": "Silberblatt",
+                        "color": "ffffff",
+                        "texture": "134190",
+                        "num": 1,
+                        "id": 765
+                    },
+                    {
+                        "name": "Leere Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3371
+                    }
+                ],
+                "spellId": 3230
+            },
+            {
+                "name": "Elixier der schwachen Seelenstärke",
+                "color": "ffffff",
+                "id": 2458,
+                "texture": 134822,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Erdwurzel",
+                        "color": "ffffff",
+                        "texture": "134187",
+                        "num": 2,
+                        "id": 2449
+                    },
+                    {
+                        "name": "Friedensblume",
+                        "color": "ffffff",
+                        "texture": "133939",
+                        "num": 1,
+                        "id": 2447
+                    },
+                    {
+                        "name": "Leere Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3371
+                    }
+                ],
+                "spellId": 2334
+            },
+            {
+                "name": "Elixier der Löwenstärke",
+                "color": "ffffff",
+                "id": 2454,
+                "texture": 134836,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Erdwurzel",
+                        "color": "ffffff",
+                        "texture": "134187",
+                        "num": 1,
+                        "id": 2449
+                    },
+                    {
+                        "name": "Silberblatt",
+                        "color": "ffffff",
+                        "texture": "134190",
+                        "num": 1,
+                        "id": 765
+                    },
+                    {
+                        "name": "Leere Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3371
+                    }
+                ],
+                "spellId": 2329
+            },
+            {
+                "name": "Elixier der schwachen Verteidigung",
+                "color": "ffffff",
+                "id": 5997,
+                "texture": 134843,
+                "num": 1,
+                "categorie": "Elixier",
+                "items": [{
+                        "name": "Silberblatt",
+                        "color": "ffffff",
+                        "texture": "134190",
+                        "num": 2,
+                        "id": 765
+                    },
+                    {
+                        "name": "Leere Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3371
+                    }
+                ],
+                "spellId": 7183
+            },
+            {
+                "name": "Fläschchen der mächtigen Wiederherstellung",
+                "color": "ffffff",
+                "id": 22853,
+                "texture": 134741,
+                "num": 1,
+                "categorie": "Fläschchen",
+                "items": [{
+                        "name": "Teufelslotus",
+                        "color": "ffffff",
+                        "texture": "134207",
+                        "num": 1,
+                        "id": 22794
+                    },
+                    {
+                        "name": "Manadistel",
+                        "color": "ffffff",
+                        "texture": "134214",
+                        "num": 3,
+                        "id": 22793
+                    },
+                    {
+                        "name": "Traumwinde",
+                        "color": "ffffff",
+                        "texture": "134205",
+                        "num": 7,
+                        "id": 22786
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 28588
+            },
+            {
+                "name": "Fläschchen des reinen Todes",
+                "color": "ffffff",
+                "id": 22866,
+                "texture": 134738,
+                "num": 1,
+                "categorie": "Fläschchen",
+                "items": [{
+                        "name": "Teufelslotus",
+                        "color": "ffffff",
+                        "texture": "134207",
+                        "num": 1,
+                        "id": 22794
+                    },
+                    {
+                        "name": "Manadistel",
+                        "color": "ffffff",
+                        "texture": "134214",
+                        "num": 3,
+                        "id": 22793
+                    },
+                    {
+                        "name": "Alptraumranke",
+                        "color": "ffffff",
+                        "texture": "134218",
+                        "num": 7,
+                        "id": 22792
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 28591
+            },
+            {
+                "name": "Fläschchen des unerbittlichen Angriffs",
+                "color": "ffffff",
+                "id": 22854,
+                "texture": 134740,
+                "num": 1,
+                "categorie": "Fläschchen",
+                "items": [{
+                        "name": "Teufelslotus",
+                        "color": "ffffff",
+                        "texture": "134207",
+                        "num": 1,
+                        "id": 22794
+                    },
+                    {
+                        "name": "Manadistel",
+                        "color": "ffffff",
+                        "texture": "134214",
+                        "num": 3,
+                        "id": 22793
+                    },
+                    {
+                        "name": "Terozapfen",
+                        "color": "ffffff",
+                        "texture": "134223",
+                        "num": 7,
+                        "id": 22789
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 28589
+            },
+            {
+                "name": "Fläschchen der obersten Macht",
+                "color": "ffffff",
+                "id": 13512,
+                "texture": 134821,
+                "num": 1,
+                "categorie": "Fläschchen",
+                "items": [{
+                        "name": "Traumblatt",
+                        "color": "ffffff",
+                        "texture": "134204",
+                        "num": 7,
+                        "id": 13463
+                    },
+                    {
+                        "name": "Bergsilbersalbei",
+                        "color": "ffffff",
+                        "texture": "134215",
+                        "num": 3,
+                        "id": 13465
+                    },
+                    {
+                        "name": "Schwarzer Lotus",
+                        "color": "1eff00",
+                        "texture": "134202",
+                        "num": 1,
+                        "id": 13468
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 17637
+            },
+            {
+                "name": "Kessel des erheblichen Arkanschutzes",
+                "color": "ffffff",
+                "id": 32839,
+                "texture": 133778,
+                "num": 1,
+                "categorie": "Sonstige",
+                "items": [{
+                        "name": "Urmana",
+                        "color": "1eff00",
+                        "texture": "132849",
+                        "num": 2,
+                        "id": 22457
+                    },
+                    {
+                        "name": "Manadistel",
+                        "color": "ffffff",
+                        "texture": "134214",
+                        "num": 7,
+                        "id": 22793
+                    },
+                    {
+                        "name": "Teufelseisengehäuse",
+                        "color": "ffffff",
+                        "texture": "133010",
+                        "num": 1,
+                        "id": 23782
+                    }
+                ],
+                "spellId": 41458
+            },
+            {
+                "name": "Öl des Feuerbrandes",
+                "color": "ffffff",
+                "id": 8956,
+                "texture": 134732,
+                "num": 1,
+                "categorie": "Sonstige",
+                "items": [{
+                        "name": "Feuerblüte",
+                        "color": "ffffff",
+                        "texture": "134200",
+                        "num": 1,
+                        "id": 4625
+                    },
+                    {
+                        "name": "Golddorn",
+                        "color": "ffffff",
+                        "texture": "134196",
+                        "num": 1,
+                        "id": 3821
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 11451
+            },
+            {
+                "name": "Erheblicher Arkanschutztrank",
+                "color": "ffffff",
+                "id": 22845,
+                "texture": 134752,
+                "num": 5,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Urmana",
+                        "color": "1eff00",
+                        "texture": "132849",
+                        "num": 1,
+                        "id": 22457
+                    },
+                    {
+                        "name": "Manadistel",
+                        "color": "ffffff",
+                        "texture": "134214",
+                        "num": 3,
+                        "id": 22793
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 5,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 28575
+            },
+            {
+                "name": "Erheblicher Feuerschutztrank",
+                "color": "ffffff",
+                "id": 22841,
+                "texture": 134748,
+                "num": 5,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Urfeuer",
+                        "color": "1eff00",
+                        "texture": "132847",
+                        "num": 1,
+                        "id": 21884
+                    },
+                    {
+                        "name": "Manadistel",
+                        "color": "ffffff",
+                        "texture": "134214",
+                        "num": 3,
+                        "id": 22793
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 5,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 28571
+            },
+            {
+                "name": "Erheblicher Trank des traumlosen Schlafs",
+                "color": "ffffff",
+                "id": 22836,
+                "texture": 134764,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Traumwinde",
+                        "color": "ffffff",
+                        "texture": "134205",
+                        "num": 1,
+                        "id": 22786
+                    },
+                    {
+                        "name": "Alptraumranke",
+                        "color": "ffffff",
+                        "texture": "134218",
+                        "num": 1,
+                        "id": 22792
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 28562
+            },
+            {
+                "name": "Trank des verrückten Alchimisten",
+                "color": "ffffff",
+                "id": 34440,
+                "texture": 134808,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    },
+                    {
+                        "name": "Zottelkappe",
+                        "color": "ffffff",
+                        "texture": "134220",
+                        "num": 2,
+                        "id": 22787
+                    }
+                ],
+                "spellId": 45061
+            },
+            {
+                "name": "Erstklassiger Manatrank",
+                "color": "ffffff",
+                "id": 22832,
+                "texture": 134762,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Traumwinde",
+                        "color": "ffffff",
+                        "texture": "134205",
+                        "num": 2,
+                        "id": 22786
+                    },
+                    {
+                        "name": "Teufelsgras",
+                        "color": "ffffff",
+                        "texture": "134208",
+                        "num": 1,
+                        "id": 22785
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 28555
+            },
+            {
+                "name": "Erstklassiger Heiltrank",
+                "color": "ffffff",
+                "id": 22829,
+                "texture": 134756,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Netherblüte",
+                        "color": "ffffff",
+                        "texture": "134216",
+                        "num": 2,
+                        "id": 22791
+                    },
+                    {
+                        "name": "Teufelsgras",
+                        "color": "ffffff",
+                        "texture": "134208",
+                        "num": 1,
+                        "id": 22785
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 28551
+            },
+            {
+                "name": "Schleichtrank",
+                "color": "ffffff",
+                "id": 22826,
+                "texture": 134733,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Zottelkappe",
+                        "color": "ffffff",
+                        "texture": "134220",
+                        "num": 2,
+                        "id": 22787
+                    },
+                    {
+                        "name": "Teufelsgras",
+                        "color": "ffffff",
+                        "texture": "134208",
+                        "num": 1,
+                        "id": 22785
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 28546
+            },
+            {
+                "name": "Instabiler Manatrank",
+                "color": "ffffff",
+                "id": 28101,
+                "texture": 134855,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Zottelkappe",
+                        "color": "ffffff",
+                        "texture": "134220",
+                        "num": 2,
+                        "id": 22787
+                    },
+                    {
+                        "name": "Teufelsgras",
+                        "color": "ffffff",
+                        "texture": "134208",
+                        "num": 1,
+                        "id": 22785
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 33733
+            },
+            {
+                "name": "Flüchtiger Heiltrank",
+                "color": "ffffff",
+                "id": 28100,
+                "texture": 134820,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Goldener Sansam",
+                        "color": "ffffff",
+                        "texture": "134221",
+                        "num": 1,
+                        "id": 13464
+                    },
+                    {
+                        "name": "Teufelsgras",
+                        "color": "ffffff",
+                        "texture": "134208",
+                        "num": 1,
+                        "id": 22785
+                    },
+                    {
+                        "name": "Magieerfüllte Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 18256
+                    }
+                ],
+                "spellId": 33732
+            },
+            {
+                "name": "Erheblicher Manatrank",
+                "color": "ffffff",
+                "id": 13444,
+                "texture": 134856,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Traumblatt",
+                        "color": "ffffff",
+                        "texture": "134204",
+                        "num": 3,
+                        "id": 13463
+                    },
+                    {
+                        "name": "Eiskappe",
+                        "color": "ffffff",
+                        "texture": "134212",
+                        "num": 2,
+                        "id": 13467
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 17580
+            },
+            {
+                "name": "Großer Arkanschutztrank",
+                "color": "ffffff",
+                "id": 13461,
+                "texture": 134863,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Traumstaub",
+                        "color": "ffffff",
+                        "texture": "132855",
+                        "num": 1,
+                        "id": 11176
+                    },
+                    {
+                        "name": "Traumblatt",
+                        "color": "ffffff",
+                        "texture": "134204",
+                        "num": 1,
+                        "id": 13463
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 17577
+            },
+            {
+                "name": "Läuterungstrank",
+                "color": "ffffff",
+                "id": 13462,
+                "texture": 134811,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Eiskappe",
+                        "color": "ffffff",
+                        "texture": "134212",
+                        "num": 2,
+                        "id": 13467
+                    },
+                    {
+                        "name": "Pestblüte",
+                        "color": "ffffff",
+                        "texture": "134219",
+                        "num": 2,
+                        "id": 13466
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 17572
+            },
+            {
+                "name": "Großer Steinschildtrank",
+                "color": "ffffff",
+                "id": 13455,
+                "texture": 134849,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Steinschuppenöl",
+                        "color": "ffffff",
+                        "texture": "134848",
+                        "num": 2,
+                        "id": 13423
+                    },
+                    {
+                        "name": "Thoriumerz",
+                        "color": "ffffff",
+                        "texture": "134578",
+                        "num": 1,
+                        "id": 10620
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 17570
+            },
+            {
+                "name": "Erheblicher Heiltrank",
+                "color": "ffffff",
+                "id": 13446,
+                "texture": 134834,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Goldener Sansam",
+                        "color": "ffffff",
+                        "texture": "134221",
+                        "num": 2,
+                        "id": 13464
+                    },
+                    {
+                        "name": "Bergsilbersalbei",
+                        "color": "ffffff",
+                        "texture": "134215",
+                        "num": 1,
+                        "id": 13465
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 17556
+            },
+            {
+                "name": "Mächtiger Wuttrank",
+                "color": "ffffff",
+                "id": 13442,
+                "texture": 134821,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Gromsblut",
+                        "color": "ffffff",
+                        "texture": "134197",
+                        "num": 3,
+                        "id": 8846
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 17552
+            },
+            {
+                "name": "Überragender Manatrank",
+                "color": "ffffff",
+                "id": 13443,
+                "texture": 134854,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Sonnengras",
+                        "color": "ffffff",
+                        "texture": "134199",
+                        "num": 2,
+                        "id": 8838
+                    },
+                    {
+                        "name": "Blindkraut",
+                        "color": "ffffff",
+                        "texture": "134195",
+                        "num": 2,
+                        "id": 8839
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 17553
+            },
+            {
+                "name": "Begrenzter Unverwundbarkeitstrank",
+                "color": "ffffff",
+                "id": 3387,
+                "texture": 134842,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Blindkraut",
+                        "color": "ffffff",
+                        "texture": "134195",
+                        "num": 2,
+                        "id": 8839
+                    },
+                    {
+                        "name": "Geisterpilz",
+                        "color": "ffffff",
+                        "texture": "134529",
+                        "num": 1,
+                        "id": 8845
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 3175
+            },
+            {
+                "name": "Unsichtbarkeitstrank",
+                "color": "ffffff",
+                "id": 9172,
+                "texture": 134805,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Geisterpilz",
+                        "color": "ffffff",
+                        "texture": "134529",
+                        "num": 1,
+                        "id": 8845
+                    },
+                    {
+                        "name": "Sonnengras",
+                        "color": "ffffff",
+                        "texture": "134199",
+                        "num": 1,
+                        "id": 8838
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 11464
+            },
+            {
+                "name": "Trank des traumlosen Schlafs",
+                "color": "ffffff",
+                "id": 12190,
+                "texture": 134863,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Lila Lotus",
+                        "color": "ffffff",
+                        "texture": "134198",
+                        "num": 3,
+                        "id": 8831
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 15833
+            },
+            {
+                "name": "Wildrankentrank",
+                "color": "ffffff",
+                "id": 9144,
+                "texture": 134814,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Wildranke",
+                        "color": "ffffff",
+                        "texture": "134183",
+                        "num": 1,
+                        "id": 8153
+                    },
+                    {
+                        "name": "Lila Lotus",
+                        "color": "ffffff",
+                        "texture": "134198",
+                        "num": 1,
+                        "id": 8831
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 11458
+            },
+            {
+                "name": "Überragender Heiltrank",
+                "color": "ffffff",
+                "id": 3928,
+                "texture": 134833,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Sonnengras",
+                        "color": "ffffff",
+                        "texture": "134199",
+                        "num": 1,
+                        "id": 8838
+                    },
+                    {
+                        "name": "Khadgars Schnurrbart",
+                        "color": "ffffff",
+                        "texture": "134188",
+                        "num": 1,
+                        "id": 3358
+                    },
+                    {
+                        "name": "Kristallphiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 8925
+                    }
+                ],
+                "spellId": 11457
+            },
+            {
+                "name": "Großer Manatrank",
+                "color": "ffffff",
+                "id": 6149,
+                "texture": 134853,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Khadgars Schnurrbart",
+                        "color": "ffffff",
+                        "texture": "134188",
+                        "num": 1,
+                        "id": 3358
+                    },
+                    {
+                        "name": "Golddorn",
+                        "color": "ffffff",
+                        "texture": "134196",
+                        "num": 1,
+                        "id": 3821
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 11448
+            },
+            {
+                "name": "Frostschutztrank",
+                "color": "ffffff",
+                "id": 6050,
+                "texture": 134754,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Winterbiss",
+                        "color": "ffffff",
+                        "texture": "133940",
+                        "num": 1,
+                        "id": 3819
+                    },
+                    {
+                        "name": "Golddorn",
+                        "color": "ffffff",
+                        "texture": "134196",
+                        "num": 1,
+                        "id": 3821
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 7258
+            },
+            {
+                "name": "Naturschutztrank",
+                "color": "ffffff",
+                "id": 6052,
+                "texture": 134717,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Lebenswurz",
+                        "color": "ffffff",
+                        "texture": "134413",
+                        "num": 1,
+                        "id": 3357
+                    },
+                    {
+                        "name": "Würgetang",
+                        "color": "ffffff",
+                        "texture": "134191",
+                        "num": 1,
+                        "id": 3820
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 7259
+            },
+            {
+                "name": "Mächtiger Trollbluttrank",
+                "color": "ffffff",
+                "id": 3826,
+                "texture": 134859,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Lebenswurz",
+                        "color": "ffffff",
+                        "texture": "134413",
+                        "num": 1,
+                        "id": 3357
+                    },
+                    {
+                        "name": "Beulengras",
+                        "color": "ffffff",
+                        "texture": "134181",
+                        "num": 1,
+                        "id": 2453
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 3451
+            },
+            {
+                "name": "Großer Wuttrank",
+                "color": "ffffff",
+                "id": 5633,
+                "texture": 134801,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Großer Fangzahn",
+                        "color": "ffffff",
+                        "texture": "133725",
+                        "num": 1,
+                        "id": 5637
+                    },
+                    {
+                        "name": "Königsblut",
+                        "color": "ffffff",
+                        "texture": "134183",
+                        "num": 1,
+                        "id": 3356
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 6618
+            },
+            {
+                "name": "Feuerschutztrank",
+                "color": "ffffff",
+                "id": 6049,
+                "texture": 134787,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Kleiner Flammenbeutel",
+                        "color": "ffffff",
+                        "texture": "134343",
+                        "num": 1,
+                        "id": 4402
+                    },
+                    {
+                        "name": "Feueröl",
+                        "color": "ffffff",
+                        "texture": "134818",
+                        "num": 1,
+                        "id": 6371
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 7257
+            },
+            {
+                "name": "Geringer Unsichtbarkeitstrank",
+                "color": "ffffff",
+                "id": 3823,
+                "texture": 134798,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Blassblatt",
+                        "color": "ffffff",
+                        "texture": "134193",
+                        "num": 1,
+                        "id": 3818
+                    },
+                    {
+                        "name": "Wildstahlblume",
+                        "color": "ffffff",
+                        "texture": "133938",
+                        "num": 1,
+                        "id": 3355
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 3448
+            },
+            {
+                "name": "Manatrank",
+                "color": "ffffff",
+                "id": 3827,
+                "texture": 134852,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Würgetang",
+                        "color": "ffffff",
+                        "texture": "134191",
+                        "num": 1,
+                        "id": 3820
+                    },
+                    {
+                        "name": "Königsblut",
+                        "color": "ffffff",
+                        "texture": "134183",
+                        "num": 1,
+                        "id": 3356
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 3452
+            },
+            {
+                "name": "Großer Heiltrank",
+                "color": "ffffff",
+                "id": 1710,
+                "texture": 134832,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Lebenswurz",
+                        "color": "ffffff",
+                        "texture": "134413",
+                        "num": 1,
+                        "id": 3357
+                    },
+                    {
+                        "name": "Königsblut",
+                        "color": "ffffff",
+                        "texture": "134183",
+                        "num": 1,
+                        "id": 3356
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 7181
+            },
+            {
+                "name": "Trank der freien Aktion",
+                "color": "ffffff",
+                "id": 5634,
+                "texture": 134715,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Schwarzmaulöl",
+                        "color": "ffffff",
+                        "texture": "132799",
+                        "num": 2,
+                        "id": 6370
+                    },
+                    {
+                        "name": "Würgetang",
+                        "color": "ffffff",
+                        "texture": "134191",
+                        "num": 1,
+                        "id": 3820
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 6624
+            },
+            {
+                "name": "Starker Trollbluttrank",
+                "color": "ffffff",
+                "id": 3388,
+                "texture": 134858,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Beulengras",
+                        "color": "ffffff",
+                        "texture": "134181",
+                        "num": 2,
+                        "id": 2453
+                    },
+                    {
+                        "name": "Wilddornrose",
+                        "color": "ffffff",
+                        "texture": "134412",
+                        "num": 2,
+                        "id": 2450
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 3176
+            },
+            {
+                "name": "Geringer Manatrank",
+                "color": "ffffff",
+                "id": 3385,
+                "texture": 134851,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Maguskönigskraut",
+                        "color": "ffffff",
+                        "texture": "133436",
+                        "num": 1,
+                        "id": 785
+                    },
+                    {
+                        "name": "Würgetang",
+                        "color": "ffffff",
+                        "texture": "134191",
+                        "num": 1,
+                        "id": 3820
+                    },
+                    {
+                        "name": "Leere Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3371
+                    }
+                ],
+                "spellId": 3173
+            },
+            {
+                "name": "Heiltrank",
+                "color": "ffffff",
+                "id": 929,
+                "texture": 134831,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Beulengras",
+                        "color": "ffffff",
+                        "texture": "134181",
+                        "num": 1,
+                        "id": 2453
+                    },
+                    {
+                        "name": "Wilddornrose",
+                        "color": "ffffff",
+                        "texture": "134412",
+                        "num": 1,
+                        "id": 2450
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 3447
+            },
+            {
+                "name": "Schwimmtempotrank",
+                "color": "ffffff",
+                "id": 6372,
+                "texture": 134754,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Flitzdistel",
+                        "color": "ffffff",
+                        "texture": "134184",
+                        "num": 1,
+                        "id": 2452
+                    },
+                    {
+                        "name": "Schwarzmaulöl",
+                        "color": "ffffff",
+                        "texture": "132799",
+                        "num": 1,
+                        "id": 6370
+                    },
+                    {
+                        "name": "Leere Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3371
+                    }
+                ],
+                "spellId": 7841
+            },
+            {
+                "name": "Hurtigkeitstrank",
+                "color": "ffffff",
+                "id": 2459,
+                "texture": 134875,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Flitzdistel",
+                        "color": "ffffff",
+                        "texture": "134184",
+                        "num": 1,
+                        "id": 2452
+                    },
+                    {
+                        "name": "Wilddornrose",
+                        "color": "ffffff",
+                        "texture": "134412",
+                        "num": 1,
+                        "id": 2450
+                    },
+                    {
+                        "name": "Leere Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3371
+                    }
+                ],
+                "spellId": 2335
+            },
+            {
+                "name": "Schwacher Manatrank",
+                "color": "ffffff",
+                "id": 2455,
+                "texture": 134850,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Maguskönigskraut",
+                        "color": "ffffff",
+                        "texture": "133436",
+                        "num": 1,
+                        "id": 785
+                    },
+                    {
+                        "name": "Silberblatt",
+                        "color": "ffffff",
+                        "texture": "134190",
+                        "num": 1,
+                        "id": 765
+                    },
+                    {
+                        "name": "Leere Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3371
+                    }
+                ],
+                "spellId": 2331
+            },
+            {
+                "name": "Schwacher Verjüngungstrank",
+                "color": "ffffff",
+                "id": 2456,
+                "texture": 134713,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Maguskönigskraut",
+                        "color": "ffffff",
+                        "texture": "133436",
+                        "num": 2,
+                        "id": 785
+                    },
+                    {
+                        "name": "Friedensblume",
+                        "color": "ffffff",
+                        "texture": "133939",
+                        "num": 1,
+                        "id": 2447
+                    },
+                    {
+                        "name": "Leere Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3371
+                    }
+                ],
+                "spellId": 2332
+            },
+            {
+                "name": "Wuttrank",
+                "color": "ffffff",
+                "id": 5631,
+                "texture": 134804,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Scharfe Klaue",
+                        "color": "ffffff",
+                        "texture": "134296",
+                        "num": 2,
+                        "id": 5635
+                    },
+                    {
+                        "name": "Leere Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3371
+                    }
+                ],
+                "spellId": 6617
+            },
+            {
+                "name": "Geringer Heiltrank",
+                "color": "ffffff",
+                "id": 858,
+                "texture": 134830,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Schwacher Heiltrank",
+                        "color": "ffffff",
+                        "texture": "134829",
+                        "num": 1,
+                        "id": 118
+                    },
+                    {
+                        "name": "Wilddornrose",
+                        "color": "ffffff",
+                        "texture": "134412",
+                        "num": 1,
+                        "id": 2450
+                    }
+                ],
+                "spellId": 2337
+            },
+            {
+                "name": "Schwacher Trollbluttrank",
+                "color": "ffffff",
+                "id": 3382,
+                "texture": 134857,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Friedensblume",
+                        "color": "ffffff",
+                        "texture": "133939",
+                        "num": 1,
+                        "id": 2447
+                    },
+                    {
+                        "name": "Erdwurzel",
+                        "color": "ffffff",
+                        "texture": "134187",
+                        "num": 2,
+                        "id": 2449
+                    },
+                    {
+                        "name": "Leere Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3371
+                    }
+                ],
+                "spellId": 3170
+            },
+            {
+                "name": "Schwacher Heiltrank",
+                "color": "ffffff",
+                "id": 118,
+                "texture": 134829,
+                "num": 1,
+                "categorie": "Trank",
+                "items": [{
+                        "name": "Friedensblume",
+                        "color": "ffffff",
+                        "texture": "133939",
+                        "num": 1,
+                        "id": 2447
+                    },
+                    {
+                        "name": "Silberblatt",
+                        "color": "ffffff",
+                        "texture": "134190",
+                        "num": 1,
+                        "id": 765
+                    },
+                    {
+                        "name": "Leere Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3371
+                    }
+                ],
+                "spellId": 2330
+            },
+            {
+                "name": "Transmutieren: Erdsturmdiamant",
+                "color": "0070dd",
+                "id": 25867,
+                "texture": 134097,
+                "num": 1,
+                "categorie": "Meta",
+                "items": [{
+                        "name": "Tiefenperidot",
+                        "color": "1eff00",
+                        "texture": "134093",
+                        "num": 3,
+                        "id": 23079
+                    },
+                    {
+                        "name": "Schattendraenit",
+                        "color": "1eff00",
+                        "texture": "134103",
+                        "num": 3,
+                        "id": 23107
+                    },
+                    {
+                        "name": "Golddraenit",
+                        "color": "1eff00",
+                        "texture": "134114",
+                        "num": 3,
+                        "id": 23112
+                    },
+                    {
+                        "name": "Urerde",
+                        "color": "1eff00",
+                        "texture": "132846",
+                        "num": 2,
+                        "id": 22452
+                    },
+                    {
+                        "name": "Urwasser",
+                        "color": "1eff00",
+                        "texture": "132852",
+                        "num": 2,
+                        "id": 21885
+                    }
+                ],
+                "spellId": 32765
+            },
+            {
+                "name": "Transmutieren: Himmelsfeuerdiamant",
+                "color": "0070dd",
+                "id": 25868,
+                "texture": 134098,
+                "num": 1,
+                "categorie": "Meta",
+                "items": [{
+                        "name": "Blutgranat",
+                        "color": "1eff00",
+                        "texture": "134083",
+                        "num": 3,
+                        "id": 23077
+                    },
+                    {
+                        "name": "Flammenspessarit",
+                        "color": "1eff00",
+                        "texture": "134111",
+                        "num": 3,
+                        "id": 21929
+                    },
+                    {
+                        "name": "Azurmondstein",
+                        "color": "1eff00",
+                        "texture": "134080",
+                        "num": 3,
+                        "id": 23117
+                    },
+                    {
+                        "name": "Urfeuer",
+                        "color": "1eff00",
+                        "texture": "132847",
+                        "num": 2,
+                        "id": 21884
+                    },
+                    {
+                        "name": "Urluft",
+                        "color": "1eff00",
+                        "texture": "132845",
+                        "num": 2,
+                        "id": 22451
+                    }
+                ],
+                "spellId": 32766
+            },
+            {
+                "name": "Stein der Weisen",
+                "color": "1eff00",
+                "id": 9149,
+                "texture": 134333,
+                "num": 1,
+                "categorie": "Verschiedenes",
+                "items": [{
+                        "name": "Eisenbarren",
+                        "color": "ffffff",
+                        "texture": "133232",
+                        "num": 4,
+                        "id": 3575
+                    },
+                    {
+                        "name": "Schwarzes Vitriol",
+                        "color": "ffffff",
+                        "texture": "134133",
+                        "num": 1,
+                        "id": 9262
+                    },
+                    {
+                        "name": "Lila Lotus",
+                        "color": "ffffff",
+                        "texture": "134198",
+                        "num": 4,
+                        "id": 8831
+                    },
+                    {
+                        "name": "Feuerblüte",
+                        "color": "ffffff",
+                        "texture": "134200",
+                        "num": 4,
+                        "id": 4625
+                    }
+                ],
+                "spellId": 11459
+            },
+            {
+                "name": "Transmutieren: Urmana zu Urfeuer",
+                "color": "1eff00",
+                "id": 21884,
+                "texture": 132847,
+                "num": 1,
+                "categorie": "Elementar",
+                "items": [{
+                    "name": "Urmana",
+                    "color": "1eff00",
+                    "texture": "132849",
+                    "num": 1,
+                    "id": 22457
+                }],
+                "spellId": 28582
+            },
+            {
+                "name": "Transmutieren: Urschatten zu Urwasser",
+                "color": "1eff00",
+                "id": 21885,
+                "texture": 132852,
+                "num": 1,
+                "categorie": "Elementar",
+                "items": [{
+                    "name": "Urschatten",
+                    "color": "1eff00",
+                    "texture": "132851",
+                    "num": 1,
+                    "id": 22456
+                }],
+                "spellId": 28580
+            },
+            {
+                "name": "Transmutieren: Urluft zu Urfeuer",
+                "color": "1eff00",
+                "id": 21884,
+                "texture": 132847,
+                "num": 1,
+                "categorie": "Elementar",
+                "items": [{
+                    "name": "Urluft",
+                    "color": "1eff00",
+                    "texture": "132845",
+                    "num": 1,
+                    "id": 22451
+                }],
+                "spellId": 28566
+            },
+            {
+                "name": "Transmutieren: Urmacht",
+                "color": "0070dd",
+                "id": 23571,
+                "texture": 136050,
+                "num": 1,
+                "categorie": "Elementar",
+                "items": [{
+                        "name": "Urerde",
+                        "color": "1eff00",
+                        "texture": "132846",
+                        "num": 1,
+                        "id": 22452
+                    },
+                    {
+                        "name": "Urwasser",
+                        "color": "1eff00",
+                        "texture": "132852",
+                        "num": 1,
+                        "id": 21885
+                    },
+                    {
+                        "name": "Urluft",
+                        "color": "1eff00",
+                        "texture": "132845",
+                        "num": 1,
+                        "id": 22451
+                    },
+                    {
+                        "name": "Urfeuer",
+                        "color": "1eff00",
+                        "texture": "132847",
+                        "num": 1,
+                        "id": 21884
+                    },
+                    {
+                        "name": "Urmana",
+                        "color": "1eff00",
+                        "texture": "132849",
+                        "num": 1,
+                        "id": 22457
+                    }
+                ],
+                "spellId": 29688
+            },
+            {
+                "name": "Transmutieren: Urwasser zu Urluft",
+                "color": "1eff00",
+                "id": 22451,
+                "texture": 132845,
+                "num": 1,
+                "categorie": "Elementar",
+                "items": [{
+                    "name": "Urwasser",
+                    "color": "1eff00",
+                    "texture": "132852",
+                    "num": 1,
+                    "id": 21885
+                }],
+                "spellId": 28569
+            },
+            {
+                "name": "Transmutieren: Feuer zu Erde",
+                "color": "1eff00",
+                "id": 7076,
+                "texture": 136102,
+                "num": 1,
+                "categorie": "Elementar",
+                "items": [{
+                    "name": "Essenz des Feuers",
+                    "color": "1eff00",
+                    "texture": "135830",
+                    "num": 1,
+                    "id": 7078
+                }],
+                "spellId": 17560
+            },
+            {
+                "name": "Transmutieren: Arkanit",
+                "color": "1eff00",
+                "id": 12360,
+                "texture": 134459,
+                "num": 1,
+                "categorie": "Metall & Stein",
+                "items": [{
+                        "name": "Thoriumbarren",
+                        "color": "ffffff",
+                        "texture": "133221",
+                        "num": 1,
+                        "id": 12359
+                    },
+                    {
+                        "name": "Arkankristall",
+                        "color": "1eff00",
+                        "texture": "134135",
+                        "num": 1,
+                        "id": 12363
+                    }
+                ],
+                "spellId": 17187
+            },
+            {
+                "name": "Transmutieren: Mithril in Echtsilber",
+                "color": "1eff00",
+                "id": 6037,
+                "texture": 133222,
+                "num": 1,
+                "categorie": "Metall & Stein",
+                "items": [{
+                    "name": "Mithrilbarren",
+                    "color": "ffffff",
+                    "texture": "133220",
+                    "num": 1,
+                    "id": 3860
+                }],
+                "spellId": 11480
+            },
+            {
+                "name": "Transmutieren: Eisen in Gold",
+                "color": "1eff00",
+                "id": 3577,
+                "texture": 133217,
+                "num": 1,
+                "categorie": "Metall & Stein",
+                "items": [{
+                    "name": "Eisenbarren",
+                    "color": "ffffff",
+                    "texture": "133232",
+                    "num": 1,
+                    "id": 3575
+                }],
+                "spellId": 11479
+            },
+            {
+                "name": "Alchimistenstein",
+                "color": "a335ee",
+                "id": 13503,
+                "texture": 135948,
+                "num": 1,
+                "categorie": "Sonstige",
+                "items": [{
+                        "name": "Stein der Weisen",
+                        "color": "1eff00",
+                        "texture": "134333",
+                        "num": 1,
+                        "id": 9149
+                    },
+                    {
+                        "name": "Erdsturmdiamant",
+                        "color": "0070dd",
+                        "texture": "134097",
+                        "num": 1,
+                        "id": 25867
+                    },
+                    {
+                        "name": "Himmelsfeuerdiamant",
+                        "color": "0070dd",
+                        "texture": "134098",
+                        "num": 1,
+                        "id": 25868
+                    },
+                    {
+                        "name": "Teufelslotus",
+                        "color": "ffffff",
+                        "texture": "134207",
+                        "num": 2,
+                        "id": 22794
+                    },
+                    {
+                        "name": "Urmacht",
+                        "color": "0070dd",
+                        "texture": "136050",
+                        "num": 5,
+                        "id": 23571
+                    }
+                ],
+                "spellId": 17632
+            },
+            {
+                "name": "Quecksilberstein",
+                "color": "1eff00",
+                "id": 31080,
+                "texture": 134115,
+                "num": 1,
+                "categorie": "Sonstige",
+                "items": [{
+                        "name": "Urerde",
+                        "color": "1eff00",
+                        "texture": "132846",
+                        "num": 1,
+                        "id": 22452
+                    },
+                    {
+                        "name": "Urleben",
+                        "color": "1eff00",
+                        "texture": "132848",
+                        "num": 1,
+                        "id": 21886
+                    },
+                    {
+                        "name": "Urmana",
+                        "color": "1eff00",
+                        "texture": "132849",
+                        "num": 1,
+                        "id": 22457
+                    }
+                ],
+                "spellId": 38070
+            },
+            {
+                "name": "Steinschuppenöl",
+                "color": "ffffff",
+                "id": 13423,
+                "texture": 134848,
+                "num": 1,
+                "categorie": "Sonstige",
+                "items": [{
+                        "name": "Steinschuppenaal",
+                        "color": "ffffff",
+                        "texture": "133897",
+                        "num": 1,
+                        "id": 13422
+                    },
+                    {
+                        "name": "Verbleite Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3372
+                    }
+                ],
+                "spellId": 17551
+            },
+            {
+                "name": "Feueröl",
+                "color": "ffffff",
+                "id": 6371,
+                "texture": 134818,
+                "num": 1,
+                "categorie": "Sonstige",
+                "items": [{
+                        "name": "Feuerflossenschnapper",
+                        "color": "ffffff",
+                        "texture": "134299",
+                        "num": 2,
+                        "id": 6359
+                    },
+                    {
+                        "name": "Leere Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3371
+                    }
+                ],
+                "spellId": 7837
+            },
+            {
+                "name": "Schwarzmaulöl",
+                "color": "ffffff",
+                "id": 6370,
+                "texture": 132799,
+                "num": 1,
+                "categorie": "Sonstige",
+                "items": [{
+                        "name": "Öliges Schwarzmaul",
+                        "color": "ffffff",
+                        "texture": "134302",
+                        "num": 2,
+                        "id": 6358
+                    },
+                    {
+                        "name": "Leere Phiole",
+                        "color": "ffffff",
+                        "texture": "132793",
+                        "num": 1,
+                        "id": 3371
+                    }
+                ],
+                "spellId": 7836
+            }
+        ]
+    }
+}
